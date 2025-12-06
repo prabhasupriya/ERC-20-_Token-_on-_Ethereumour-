@@ -3,7 +3,7 @@
 ## Screenshots
 
 ### ✅ 1. Compilation Success
-![Compilation Success](screenshots/Screenshot%2025-12-06%071914.png)
+![Compilation Success](screenshots/Screenshot%2025-12-06%20071914.png)
 
 ### ✅ 2. Deployment
 ![Deployment](screenshots/Screenshot%2025-12-06%072116.png)
